@@ -47,6 +47,13 @@ Este proyecto es una aplicación desarrollada con **Spring Boot** para gestionar
 - cantidad: `Double`
 - precio: `Double`
 
+## 🌐 Proyecto Desplegado
+El proyecto está desplegado en Render y puede probarse desde el siguiente enlace:
+
+🔗 **[Demo del Proyecto](https://contoso-dyqk.onrender.com)**
+
+> ⚠️ **Nota:** El servidor está en un plan gratuito de Render. Esto significa que, si no ha recibido solicitudes recientes, puede estar en modo "sleepy" y tardar varios segundos en responder la primera petición.
+
 ## 🌐 Endpoints REST
 A continuación se detallan los endpoints disponibles por cada entidad:
 
